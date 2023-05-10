@@ -1,5 +1,5 @@
 # Your Project's Title...
-Your project's description...
+Getting started with Adobe's Project Franklin.
 
 ## Environments
 - Preview: https://main--messing-with-helix--clapinig.hlx.page/
