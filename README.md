@@ -1,4 +1,4 @@
-# Your Project's Title...
+# Messing Around with Helix 
 Getting started with Adobe's Project Franklin.
 
 ## Environments
