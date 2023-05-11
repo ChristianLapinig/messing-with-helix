@@ -2,8 +2,8 @@
 Getting started with Adobe's Project Franklin.
 
 ## Environments
-- Preview: https://main--messing-with-helix--clapinig.hlx.page/
-- Live: https://main--messing-with-helix--clapinig.hlx.live/
+- Preview: https://main--messing-with-helix--christianlapinig.hlx.page/
+- Live: https://main--messing-with-helix--christianlapinig.hlx.live/
 
 ## Installation
 
